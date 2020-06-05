@@ -4,7 +4,7 @@ Since the protests have started, there have been hundreds of incidents of police
 
 This database is an attempt to centralize some of this information. Currently, the data has been pulled from Greg Doucette (@greg_doucette), who has compiled a large list of these incidents on his Twitter page. This list is nowhere near complete, and the descriptions are what Greg has written and should not neccessarily be taken as fact.
 
-This database will be updated regularly. Currently sorted by retweets.
+This database will be updated regularly. Currently sorted by retweets. [Sort by recent.](sort_by_recent.md)
 
 
 <table border="1" class="dataframe">
