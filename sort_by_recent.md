@@ -10,7 +10,7 @@ This database will be updated regularly. Currently sorted by recent. [Sort by po
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th>Incident #</th>
+      <th>Greg #</th>
       <th>Location</th>
       <th>Description</th>
       <th>Tweet Link</th>
