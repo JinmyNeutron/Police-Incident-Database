@@ -19,6 +19,279 @@ This database will be updated regularly. Currently sorted by recent. [Sort by po
   </thead>
   <tbody>
     <tr>
+      <td>346</td>
+      <td>Portland, OR</td>
+      <td>more in Portland last night, and a lot of high-def video in this thread ......Sharing this one for the bass drummer who keeps going amid the teargas 😂......[h/t @MrOlmos]</td>
+      <td>https://twitter.com/greg_doucette/status/1269312820899954688</td>
+      <td>https://t.co/cXtZfDRoYq</td>
+    </tr>
+    <tr>
+      <td>345</td>
+      <td>Portland, OR</td>
+      <td>now we know why Portland PD asked media to stay away in 3️⃣4️⃣0️⃣ – there had been an order from the mayor's office not to use teargas, and the police said "LOL f*ck the mayor" and used it anyway......Lawlessness......[h/t @BonnieSilkman]</td>
+      <td>https://twitter.com/greg_doucette/status/1269310960432488448</td>
+      <td>https://t.co/f46cezGObW</td>
+    </tr>
+    <tr>
+      <td>344</td>
+      <td>Seattle, WA</td>
+      <td>protestors make a path for an ambulance to get to a medical emergency ......Seattle PD says "LOL f*ck you" and makes the ambulance go back......[h/t @itsjosephryan]</td>
+      <td>https://twitter.com/greg_doucette/status/1269310036175663105</td>
+      <td>https://t.co/XbRatUHC3S</td>
+    </tr>
+    <tr>
+      <td>343</td>
+      <td>New York City, NY</td>
+      <td>police casually shove a guy off his bike at the corner of Norstrand and Crown, then start making arrests......[h/t @C_Sommerfeldt]</td>
+      <td>https://twitter.com/greg_doucette/status/1269308044485316619</td>
+      <td>https://t.co/T5tgrkQdxq</td>
+    </tr>
+    <tr>
+      <td>342</td>
+      <td>Providence, RI</td>
+      <td>interview with a firefighter about why he's protesting – turns out he was racially profiled and arrested while *on the job* and *in uniform*......Another example of the 5th Rule of @fsckemall ......[h/t @StephMachado]</td>
+      <td>https://twitter.com/greg_doucette/status/1269307450299224065</td>
+      <td>https://t.co/GmNPuqgbdA</td>
+    </tr>
+    <tr>
+      <td>341</td>
+      <td>Washington, DC</td>
+      <td>another instance of totally unidentifiable people acting as law enforcement......No nameplates, no badges, no insignia, no uniforms......(Also: no facemasks 🤢)......[h/t @bdaviskc]</td>
+      <td>https://twitter.com/greg_doucette/status/1269306124680990721</td>
+      <td>https://t.co/J6fSiEZjxC</td>
+    </tr>
+    <tr>
+      <td>340</td>
+      <td>Portland, OR</td>
+      <td>police email all reporters asking them to leave so they can brutalize protestors without anyone watching</td>
+      <td>https://twitter.com/greg_doucette/status/1269304287580037121</td>
+      <td>https://t.co/E8aGetltYl</td>
+    </tr>
+    <tr>
+      <td>339</td>
+      <td>Seattle, WA</td>
+      <td>➡️ Guy runs from cops and dives into a random SUV. So police club him (0:33), but then punch him in the face for sport after he's cuffed (1:44)......➡️ And arrest the random driver......➡️ And arrest someone filming......[h/t @IsItUpOrDown]</td>
+      <td>https://twitter.com/greg_doucette/status/1269303637060325377</td>
+      <td>https://t.co/ZNmBNVw4J4</td>
+    </tr>
+    <tr>
+      <td>338</td>
+      <td>Valdosta, GA</td>
+      <td>making this a separate incident because it happened the following day — the Sheriff of Lowndes County illegally arrested a woman for holding a profane sign......This criminal prosecution will end up dismissed, &amp;amp; the department likely sued</td>
+      <td>https://twitter.com/greg_doucette/status/1269289754740301824</td>
+      <td>https://t.co/YYCneyvFMG</td>
+    </tr>
+    <tr>
+      <td>337</td>
+      <td>Lowndes County (Valdosta?), GA</td>
+      <td>the Lowndes County Sheriff *literally strangles a protestor* for having a protest sign with "FUCK TRUMP" on it......[h/t @airguitarsolos &amp;amp; @adamsteinbaugh]</td>
+      <td>https://twitter.com/greg_doucette/status/1269288356338380800</td>
+      <td>https://t.co/hJglxYOxr3</td>
+    </tr>
+    <tr>
+      <td>336</td>
+      <td>New York City, NY</td>
+      <td>police stop issuing press credentials to keep the reporters out ......Given how many journalists they beat and shoot on air, honestly I'm surprised NYPD doesn't issue *more* credentials to have more targets</td>
+      <td>https://twitter.com/greg_doucette/status/1269277777548771329</td>
+      <td>https://t.co/SF7bxHEsIk</td>
+    </tr>
+    <tr>
+      <td>335</td>
+      <td>San Jose, CA</td>
+      <td>community activist Derrick Sanderlin helped train San Jose PD on police bias......He escorted a guy to safety when it looked like protestors would attack him......So SJPD repaid Sanderlin by shooting him repeatedly, including in the 🍒......https://t.co/JW6UD6YD0T</td>
+      <td>https://twitter.com/greg_doucette/status/1269267786792144898</td>
+      <td>https://t.co/eClTNJ4pUa</td>
+    </tr>
+    <tr>
+      <td>334</td>
+      <td>Philadelphia, PA</td>
+      <td>cop abruptly grabs a woman for no reason and attacks her, as the other cops assemble and a supervisor yells "why do you always start the violence!" to protestors......The officer who started it? Same as 2️⃣9️⃣4️⃣......[h/t @tippedminimum]</td>
+      <td>https://twitter.com/greg_doucette/status/1269124784077582337</td>
+      <td>https://t.co/oxJ1hEoabA</td>
+    </tr>
+    <tr>
+      <td>333</td>
+      <td>Washington, DC</td>
+      <td>check out the video in the tweet quoted here......Moving</td>
+      <td>https://twitter.com/greg_doucette/status/1269123485735047169</td>
+      <td>https://t.co/TeyQvERM2X</td>
+    </tr>
+    <tr>
+      <td>332</td>
+      <td>Denver, CO</td>
+      <td>a federal District Court Judge has entered an injunction prohibiting certain Denver police practices (screenshots in the tweet below)......Violations will now mean potential contempt of court</td>
+      <td>https://twitter.com/greg_doucette/status/1269120842199425029</td>
+      <td>https://t.co/I1C6VPM2ys</td>
+    </tr>
+    <tr>
+      <td>331</td>
+      <td>Detroit, MI</td>
+      <td>police deploying their "sound cannon"......Also check the pimped out APC in the distance</td>
+      <td>https://twitter.com/greg_doucette/status/1269120312278482944</td>
+      <td>https://t.co/T0EJsaevSf</td>
+    </tr>
+    <tr>
+      <td>330</td>
+      <td>Columbus, OH</td>
+      <td>another photo that speaks for itself</td>
+      <td>https://twitter.com/greg_doucette/status/1269118992540749831</td>
+      <td>https://t.co/Z6BfTGil3z</td>
+    </tr>
+    <tr>
+      <td>329</td>
+      <td>Columbus, OH</td>
+      <td>protestor gives police the middle finger as they're pepper-spraying people, so another cop speed-walks up to rip the guys mask off so he can be sprayed ......[h/t @bwk1992]</td>
+      <td>https://twitter.com/greg_doucette/status/1269118485948497920</td>
+      <td>https://t.co/5SyYWTel6w</td>
+    </tr>
+    <tr>
+      <td>328</td>
+      <td>Columbus, OH</td>
+      <td>protest descends into chaos as a guy jawboning at a cop is violently shoved, another cop comes up to indiscriminately pepper-spray everyone, and then the cops attack......Notice them pepper-spray the guy recording, at the end......[FB @ https://t.co/MmWGKqfmsN]</td>
+      <td>https://twitter.com/greg_doucette/status/1269117960930672640</td>
+      <td>https://t.co/Ie5C6Li1Dx</td>
+    </tr>
+    <tr>
+      <td>327</td>
+      <td>New York City, NY</td>
+      <td>police kettle protestors into an enclosed area and then start beating them with batons – before curfew ......[h/t @ghouldisco]</td>
+      <td>https://twitter.com/greg_doucette/status/1269103591400386561</td>
+      <td>https://t.co/5cuaqBXRuf</td>
+    </tr>
+    <tr>
+      <td>326</td>
+      <td>New York City, NY</td>
+      <td>same night and locale as 3️⃣2️⃣5️⃣ above I think, but really soak all of this one in as NYPD officers go out of their way to intimidate / assault / arrest people for First Amendment-protected conduct ......[h/t @ZachReports]</td>
+      <td>https://twitter.com/greg_doucette/status/1269103085584093184</td>
+      <td>https://t.co/V838FQqyLz</td>
+    </tr>
+    <tr>
+      <td>325</td>
+      <td>New York City, NY</td>
+      <td>how many NYPD officers does it take to beat one man? I count 4 here......[h/t @ZachReports]</td>
+      <td>https://twitter.com/greg_doucette/status/1269101957815455746</td>
+      <td>https://t.co/pVw5INcveA</td>
+    </tr>
+    <tr>
+      <td>324</td>
+      <td>Los Angeles, CA</td>
+      <td>protestor's GoPro bodycam captures an LAPD officer beating the everlasting sh*t out of a guy with his hands up......[h/t @2020Police / https://t.co/GQIcJ8Ckmq]</td>
+      <td>https://twitter.com/greg_doucette/status/1269101214706421760</td>
+      <td>https://t.co/06zwrdl6XZ</td>
+    </tr>
+    <tr>
+      <td>323</td>
+      <td>Lakewood, CA</td>
+      <td>police stand still for a bit, then decide to march and open fire on peaceful protestors......The department claims "someone threw a water bottle at them"......You'll notice there's no water bottle thrown......[h/t @longway2theguap]</td>
+      <td>https://twitter.com/greg_doucette/status/1269090597794701312</td>
+      <td>https://t.co/Pm5EuAMS2v</td>
+    </tr>
+    <tr>
+      <td>322</td>
+      <td>Atlanta, GA</td>
+      <td>Instagram post from a guy who got tackled by APD</td>
+      <td>https://twitter.com/greg_doucette/status/1269088901135810561</td>
+      <td>https://t.co/n0fEt2K1D5</td>
+    </tr>
+    <tr>
+      <td>321</td>
+      <td>Chicago, IL</td>
+      <td>video from 5/31 where Chicago PD officers don't have their bodycams and have deliberately covered their name plates to avoid anyone identifying them......[h/t @CHICAGOCREATUR1]</td>
+      <td>https://twitter.com/greg_doucette/status/1269085116736946176</td>
+      <td>https://t.co/x75mz7xjzv</td>
+    </tr>
+    <tr>
+      <td>320</td>
+      <td>New York City, NY</td>
+      <td>there's something viscerally striking about seeing NYPD arresting medics in scrubs weeks after being the global epicenter of COVID-19 infections ......[h/t @AshAgony]</td>
+      <td>https://twitter.com/greg_doucette/status/1269083492140408832</td>
+      <td>https://t.co/yeXrasHIqv</td>
+    </tr>
+    <tr>
+      <td>319</td>
+      <td>Portland, OR</td>
+      <td>police shooting flash-bangs, tear gas, and pepper spray......👤: "Where do I go? Where do I go??"...👮🏼‍♂️: ::blasts pepper spray::......(This may be the same night / area as 2️⃣4️⃣3️⃣?)......[h/t @BeggingDawson]</td>
+      <td>https://twitter.com/greg_doucette/status/1269082018542956545</td>
+      <td>https://t.co/6dPQTdRb2A</td>
+    </tr>
+    <tr>
+      <td>318</td>
+      <td>Peoria, IL</td>
+      <td>Bill Barr's DOJ has federally charged a man for "using the internet to incite a riot"......Seems like it could set up a direct attack on Brandenburg v. Ohio? 🤔</td>
+      <td>https://twitter.com/greg_doucette/status/1269064272811905025</td>
+      <td>https://t.co/qcNRtN8PBi</td>
+    </tr>
+    <tr>
+      <td>317</td>
+      <td>Chicago, IL</td>
+      <td>from the "Not The Onion" files, Chicago's Police Board President praises how great Chicago PD was............so of course CPD beats the sh*t out of him for sport</td>
+      <td>https://twitter.com/greg_doucette/status/1269041870707077120</td>
+      <td>https://t.co/qDj5flEE44</td>
+    </tr>
+    <tr>
+      <td>316</td>
+      <td>Durham, NC</td>
+      <td>DPD briefly closed off a section of E Main Street (in front of their shiny and expensive new police headquarters) so protestors could do a 9-minute "die in"......But then somehow let a car slip past the barricades? 🤔......[h/t @KillaKat21]</td>
+      <td>https://twitter.com/greg_doucette/status/1269038894089191434</td>
+      <td>https://t.co/qfkcq63IwX</td>
+    </tr>
+    <tr>
+      <td>315</td>
+      <td>Eloy, AZ</td>
+      <td>police brutality by another name, as the Government shuts down taxpayer-funded facilities because of unrest that doesn't exist</td>
+      <td>https://twitter.com/greg_doucette/status/1269030007613132800</td>
+      <td>https://t.co/pE7gcJ5dIP</td>
+    </tr>
+    <tr>
+      <td>314</td>
+      <td>Des Moines, IA</td>
+      <td>white people in a car shout "Black Lives Don't Matter," so Des Moines PD think the appropriate response is to shoot a teargas canister at the car *in front* of the one with people shouting......[h/t @SharaneCalister]</td>
+      <td>https://twitter.com/greg_doucette/status/1269029328681123840</td>
+      <td>https://t.co/3XLePyDzIJ</td>
+    </tr>
+    <tr>
+      <td>313</td>
+      <td>Orlando, FL</td>
+      <td>peaceful protest outside City Hall turns violent as police open fire with teargas, flash-bangs, and what sounds like rubber bullets ......[h/t @BaroneJosh]</td>
+      <td>https://twitter.com/greg_doucette/status/1269017349727928320</td>
+      <td>https://t.co/YQntmqMSXH</td>
+    </tr>
+    <tr>
+      <td>312</td>
+      <td>Minneapolis, MN</td>
+      <td>back in the first day or two there was a video of a reporter explaining how she was teargassed and attacked by police; it doesn't look like I included it in the thread, but here's a follow-up of the results</td>
+      <td>https://twitter.com/greg_doucette/status/1269011527731904512</td>
+      <td>https://t.co/QSSxKHelu3</td>
+    </tr>
+    <tr>
+      <td>311</td>
+      <td>San Diego, CA</td>
+      <td>casual roadside abduction by SDPD in unmarked vans</td>
+      <td>https://twitter.com/greg_doucette/status/1269009907367493634</td>
+      <td>https://t.co/VzhyAYgraK</td>
+    </tr>
+    <tr>
+      <td>310</td>
+      <td>Raleigh, NC</td>
+      <td>a man told the City Council he was going to sue the police on behalf of protestors......So hours later the police raided his house and took him to jail......(I'm told at least one charge was dismissed outright this AM; awaiting confirmation)</td>
+      <td>https://twitter.com/greg_doucette/status/1268997040500924416</td>
+      <td>https://t.co/WAbCvW4mdn</td>
+    </tr>
+    <tr>
+      <td>309</td>
+      <td>Bethesda, MD</td>
+      <td>originally had this outside the protest-related violence thread because I thought it was just a random white guy......Seems instead that it's an ex-cop booted in 2018 for excessive force?</td>
+      <td>https://twitter.com/greg_doucette/status/1268986285928189954</td>
+      <td>https://t.co/FhTsJfhDup</td>
+    </tr>
+    <tr>
+      <td>308</td>
+      <td>Los Angeles, CA</td>
+      <td>text thread on LAPD's casual sex assaults on female- and gender-nonconforming arrestees ......Sadly, this is common. Large number of my clients have shared similar stories over the years</td>
+      <td>https://twitter.com/greg_doucette/status/1268972870992084993</td>
+      <td>https://t.co/dIgQ9TqK5v</td>
+    </tr>
+    <tr>
       <td>307</td>
       <td>New York City, NY</td>
       <td>police descend on peaceful protestors, and repeatedly tried to grab and arrest a reporter as she's showing her press pass</td>
