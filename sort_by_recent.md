@@ -19,6 +19,272 @@ This database will be updated regularly. Currently sorted by recent. [Sort by po
   </thead>
   <tbody>
     <tr>
+      <td>384</td>
+      <td>Seattle, WA</td>
+      <td>Army National Guard getting in on the habit of refusing to wear name patches to identify themselves......Your Government wants to abuse you – anonymously ......Lawlessness</td>
+      <td>https://twitter.com/greg_doucette/status/1269704581791002628</td>
+      <td>https://t.co/7fovtVbc4M</td>
+    </tr>
+    <tr>
+      <td>383</td>
+      <td>Columbus, OH</td>
+      <td>police admit they have 6 snipers on buildings overlooking protests, and *desperately* want permission to use lethal force to kill people for exercising their First Amendment rights</td>
+      <td>https://twitter.com/greg_doucette/status/1269701014082531330</td>
+      <td>https://t.co/Z9A6CLP52d</td>
+    </tr>
+    <tr>
+      <td>382</td>
+      <td>Portland, OR</td>
+      <td>this is likely the same location + time as one of earlier vids (if anyone can confirm let me know)......Assigning a separate number b/c both (1) note instruction to leave but then kettling ppl so they can't, and (2) attacking a journalist</td>
+      <td>https://twitter.com/greg_doucette/status/1269700875641073665</td>
+      <td>https://t.co/bww111Qfjf</td>
+    </tr>
+    <tr>
+      <td>381</td>
+      <td>Minneapolis, MN</td>
+      <td>part of a lengthy thread on cops shooting journalists everywhere</td>
+      <td>https://twitter.com/greg_doucette/status/1269670385273966595</td>
+      <td>https://t.co/kJK4stydzd</td>
+    </tr>
+    <tr>
+      <td>380</td>
+      <td>Los Angeles, CA</td>
+      <td>cop pulls a gun on a random black guy at the park, yells at him at gunpoint to get on his knees............then gets told "you've got the wrong guy," says "my bad," and leaves......[@mrwillmartin]</td>
+      <td>https://twitter.com/greg_doucette/status/1269669881974317066</td>
+      <td>https://t.co/3KBb1iqFfJ</td>
+    </tr>
+    <tr>
+      <td>379</td>
+      <td>Columbus, OH</td>
+      <td>police tweeted out a list of people arrested during protests, including minor children......But they'll refuse to wear nameplates because they're afraid for their safety...</td>
+      <td>https://twitter.com/greg_doucette/status/1269669073216036864</td>
+      <td>https://t.co/qtFyD8aUee</td>
+    </tr>
+    <tr>
+      <td>378</td>
+      <td>Portland, OR</td>
+      <td>PDX cop beats and pepper-sprays someone for filming an arrest......Footage caught on a downtown surveillance cam......The federal 9th Circuit Court of Appeals ruled – in the 1990s! – that you have a 1A right to record police......[@coffin_kenny]</td>
+      <td>https://twitter.com/greg_doucette/status/1269667665116893186</td>
+      <td>https://t.co/EPRhbQX3TH</td>
+    </tr>
+    <tr>
+      <td>377</td>
+      <td>Portland, OR</td>
+      <td>a police officer shouts "YOU WERE STANDING TAKING PHOTOGRAPHS" as the basis to arrest 2 people behind a car......Another PDX cop then threatens a journalist with arrest if he doesn't stop filming......[@AlexMilanTracy]</td>
+      <td>https://twitter.com/greg_doucette/status/1269666307227648010</td>
+      <td>https://t.co/upxJo4fndP</td>
+    </tr>
+    <tr>
+      <td>376</td>
+      <td>Portland, OR</td>
+      <td>police push one guy, so another tries to record with his phone......A group of PDX cops then club the everlasting sh*t out the guy recording ......[@AlexMilanTracy]</td>
+      <td>https://twitter.com/greg_doucette/status/1269665202376708097</td>
+      <td>https://t.co/2zjxv8T9No</td>
+    </tr>
+    <tr>
+      <td>375</td>
+      <td>Seattle, WA</td>
+      <td>more video of how Seattle PD gives an order to disperse, but then uses their bike cops to prevent people from dispersing – and then shoots them when they don't ......Lawlessness......[@MikeApe7]</td>
+      <td>https://twitter.com/greg_doucette/status/1269660520489115651</td>
+      <td>https://t.co/EWevm6yKVC</td>
+    </tr>
+    <tr>
+      <td>374</td>
+      <td>Portland, OR</td>
+      <td>police turning downtown Portland into a war zone......The cops are rioting......[@PDXzane]</td>
+      <td>https://twitter.com/greg_doucette/status/1269655789595213824</td>
+      <td>https://t.co/bCDHo6wOjZ</td>
+    </tr>
+    <tr>
+      <td>373</td>
+      <td>Florida</td>
+      <td>a similar "dOn'T cRiTiCiZe Us!" campaign......Two things:......➡️ Studies prove community orgs are more effective at crime reduction than police: https://t.co/VsERd7zguc......➡️ Crime dropped dramatically when NYPD walked out: https://t.co/9gD1cokjJL......https://t.co/QHk80cVM5v</td>
+      <td>https://twitter.com/greg_doucette/status/1269652927809048576</td>
+      <td>https://t.co/35gHqBJ96P</td>
+    </tr>
+    <tr>
+      <td>372</td>
+      <td>Columbus, OH</td>
+      <td>police casually use the drowning of a black  child on social media as part of a "dOn'T cRiTiCiZe Us!" campaign......Your tax dollars paid for this</td>
+      <td>https://twitter.com/greg_doucette/status/1269649001126789127</td>
+      <td>https://t.co/rxb0gz2DGy</td>
+    </tr>
+    <tr>
+      <td>371</td>
+      <td>Austin, TX</td>
+      <td>the Austin PD is evidently paying someone to send them mail for their public relations efforts......Notice at least 4 of the envelopes have identical handwriting</td>
+      <td>https://twitter.com/greg_doucette/status/1269638522929123329</td>
+      <td>https://t.co/QSOwhiyYib</td>
+    </tr>
+    <tr>
+      <td>370</td>
+      <td>Florissant, MO</td>
+      <td>6/2 home security camera footage captures a police officer running over a man with his car, kicking him, then hitting him with a forearm......Bonus: the DA's son, also a cop, was in the back seat of the patrol car too......https://t.co/pt9ajDQMhU</td>
+      <td>https://twitter.com/greg_doucette/status/1269511488718413824</td>
+      <td>https://t.co/zk5CeEMIif</td>
+    </tr>
+    <tr>
+      <td>369</td>
+      <td>Richmond, VA</td>
+      <td>remember I mentioned up-thread a video of a Richmond officer spitting on an arrestee but we couldn't confirm it?......There's new footage......One officer spits on the arrestee *4* separate times, then another officer spits on them too......[YT @ https://t.co/t7UDIfZdyT]</td>
+      <td>https://twitter.com/greg_doucette/status/1269504306836799489</td>
+      <td>https://t.co/eMqwXJQEdQ</td>
+    </tr>
+    <tr>
+      <td>368</td>
+      <td>Austin, TX</td>
+      <td>police are deliberately maiming the people they're supposed to serve and protect ......Powerful montage from @statesman; you'll see both 1️⃣7️⃣5️⃣ and 2️⃣4️⃣1️⃣ in here......[YT @ https://t.co/pekBazNeXG]</td>
+      <td>https://twitter.com/greg_doucette/status/1269501710759866369</td>
+      <td>https://t.co/kOqSey5Qw1</td>
+    </tr>
+    <tr>
+      <td>367</td>
+      <td>Portland, OR</td>
+      <td>looks like a war zone outside the detention center, as police indiscriminately shoot, bomb, and gas the people they're allegedly supposed to serve and protect ......[@StatusCoup]</td>
+      <td>https://twitter.com/greg_doucette/status/1269496076593135616</td>
+      <td>https://t.co/gM16kTNd5D</td>
+    </tr>
+    <tr>
+      <td>366</td>
+      <td>Denver, CO</td>
+      <td>Denver's mayor is either a moron, totally disconnected from reality, or both......Again: urban pacification issues have been studied for decades, and put into practice in Iraq. The harder authority cracks down, the more people tebel</td>
+      <td>https://twitter.com/greg_doucette/status/1269495413045854215</td>
+      <td>https://t.co/S0CvIbrqKR</td>
+    </tr>
+    <tr>
+      <td>365</td>
+      <td>Seattle, WA</td>
+      <td>I'm giving these all different numbers because they're all so goddamn outrageous ......Read. Then watch.</td>
+      <td>https://twitter.com/greg_doucette/status/1269492085767507968</td>
+      <td>https://t.co/ouhFUm4ayj</td>
+    </tr>
+    <tr>
+      <td>364</td>
+      <td>Seattle, WA</td>
+      <td>police force tweets out remains of an "improvised explosive device"......Apparently they're too f*cking stupid to remove the "candle" tag on it before taking the pic ......(－‸ლ)</td>
+      <td>https://twitter.com/greg_doucette/status/1269490797847752706</td>
+      <td>https://t.co/KypHMG39UG</td>
+    </tr>
+    <tr>
+      <td>363</td>
+      <td>Seattle, WA</td>
+      <td>more Seattle cops repeatedly assaulting a journalist so she'll stop filming......[@Shauna_Sowersby]</td>
+      <td>https://twitter.com/greg_doucette/status/1269487967573286913</td>
+      <td>https://t.co/u09nYn28vG</td>
+    </tr>
+    <tr>
+      <td>362</td>
+      <td>Seattle, WA</td>
+      <td>didn't Seattle's mayor say there would be a moratorium on using chemical weapons against citizens? 🤔......[@richsssmith]</td>
+      <td>https://twitter.com/greg_doucette/status/1269481868245819393</td>
+      <td>https://t.co/Fv6q6NR9lo</td>
+    </tr>
+    <tr>
+      <td>361</td>
+      <td>Buffalo, NY</td>
+      <td>extended thread from a journalist on the unchecked brutality of Buffalo PD......[Same department that tried to casually murder the 75yo man]</td>
+      <td>https://twitter.com/greg_doucette/status/1269480704544518147</td>
+      <td>https://t.co/yFc9zcrHUf</td>
+    </tr>
+    <tr>
+      <td>360</td>
+      <td>Seattle, WA</td>
+      <td>police ask a huge crowd to take 5 steps back – then when they realize it's impossible, they indiscriminately start pepper-spraying everyone......Notice the unlawful seizures of private property (umbrellas, a road cone)......[@lovebarofficial]</td>
+      <td>https://twitter.com/greg_doucette/status/1269479158998011906</td>
+      <td>https://t.co/q2npQXuGCT</td>
+    </tr>
+    <tr>
+      <td>359</td>
+      <td>Merrick, NY</td>
+      <td>another one of those moments where the photo speaks for itself</td>
+      <td>https://twitter.com/greg_doucette/status/1269476493731774466</td>
+      <td>https://t.co/2Yy0WO5GN6</td>
+    </tr>
+    <tr>
+      <td>358</td>
+      <td>Oklahoma City, OK</td>
+      <td>lengthy montage of Oklahoma police bringing the brutality to protests against police brutality ......Illegal seizure of private property, beating the sh*t out of people, indiscriminately shooting unarmed protestors for sport......Yikes......[https://t.co/8xwi9xIQMV]</td>
+      <td>https://twitter.com/greg_doucette/status/1269475945594916864</td>
+      <td>https://t.co/A9CMdGuB9l</td>
+    </tr>
+    <tr>
+      <td>357</td>
+      <td>London, England, UK</td>
+      <td>seems the folks across the pond have policing issues as well......This is so comical I thought it was fake ......[@matthabusby]</td>
+      <td>https://twitter.com/greg_doucette/status/1269396379312558081</td>
+      <td>https://t.co/uPXI67QLTN</td>
+    </tr>
+    <tr>
+      <td>356</td>
+      <td>Olympia, WA</td>
+      <td>cops posing with 3%er vigilantes for the gram</td>
+      <td>https://twitter.com/greg_doucette/status/1269392103978807298</td>
+      <td>https://t.co/UAe8PEoYcv</td>
+    </tr>
+    <tr>
+      <td>355</td>
+      <td>Seattle, WA</td>
+      <td>police beat the everlasting sh*t out of an unarmed protestor for sport......[@itsadumbwebsite]</td>
+      <td>https://twitter.com/greg_doucette/status/1269391771374686211</td>
+      <td>https://t.co/VckzbDmLNj</td>
+    </tr>
+    <tr>
+      <td>354</td>
+      <td>Philadelphia, PA</td>
+      <td>police collaborating with the white vigilante thug force in 1️⃣2️⃣4️⃣</td>
+      <td>https://twitter.com/greg_doucette/status/1269390888163303431</td>
+      <td>https://t.co/z0YkiroeKU</td>
+    </tr>
+    <tr>
+      <td>353</td>
+      <td>Seattle, WA</td>
+      <td>how many Seattle cops does it take to arrest a woman with her 9-year-old daughter in the backseat? Looks like at least a dozen minimum ......Clearly too many cops in Seattle ......[h/t @daeshikjr]</td>
+      <td>https://twitter.com/greg_doucette/status/1269380431478173699</td>
+      <td>https://t.co/F9I2GQ3asa</td>
+    </tr>
+    <tr>
+      <td>352</td>
+      <td>Bakersfield, CA</td>
+      <td>this guy ran over and killed a black protestor for sport ......Notice how the police protect him as he casually smokes a cigarette......[h/t @mvgold_]</td>
+      <td>https://twitter.com/greg_doucette/status/1269377320214806528</td>
+      <td>https://t.co/0rKedsq43P</td>
+    </tr>
+    <tr>
+      <td>351</td>
+      <td>Delaware County, PA</td>
+      <td>Delco police union doing casual mafia things, like threatening to "destroy" local businesses who don't deep throat the boot......Check out the news article in the second tweet of this thread</td>
+      <td>https://twitter.com/greg_doucette/status/1269372809895174155</td>
+      <td>https://t.co/ny3oWpMDid</td>
+    </tr>
+    <tr>
+      <td>350</td>
+      <td>Pittsburgh, PA</td>
+      <td>people – on their knees – try to tell PGH cops that there are people in the parking deck behind them who need medical care......So the cops pepper-spray them for sport......[h/t @messiest_headd]</td>
+      <td>https://twitter.com/greg_doucette/status/1269372731839086594</td>
+      <td>https://t.co/vWfE0jYpMr</td>
+    </tr>
+    <tr>
+      <td>349</td>
+      <td>Temecula, CA</td>
+      <td>Mayor says "I don't believe there has ever been a good person of color killed by a police officer"......Then blames it on dyslexia... and using speech-to-text technology?</td>
+      <td>https://twitter.com/greg_doucette/status/1269371740477677570</td>
+      <td>https://t.co/xtUKmvAjNg</td>
+    </tr>
+    <tr>
+      <td>348</td>
+      <td>Lincoln, NE</td>
+      <td>thread from a reporter on finding CS canisters after he and his photographer were gassed twice by police ......Police are using chemical weapons on civilians</td>
+      <td>https://twitter.com/greg_doucette/status/1269371739299033088</td>
+      <td>https://t.co/cGQVTA4VL2</td>
+    </tr>
+    <tr>
+      <td>347</td>
+      <td>Tulsa, OK</td>
+      <td>police open fire on protestors and shoot a reporter in the process while he's live on-air......[h/t @KTULNews]</td>
+      <td>https://twitter.com/greg_doucette/status/1269316343532343297</td>
+      <td>https://t.co/WowawK40nZ</td>
+    </tr>
+    <tr>
       <td>346</td>
       <td>Portland, OR</td>
       <td>more in Portland last night, and a lot of high-def video in this thread ......Sharing this one for the bass drummer who keeps going amid the teargas 😂......[h/t @MrOlmos]</td>
