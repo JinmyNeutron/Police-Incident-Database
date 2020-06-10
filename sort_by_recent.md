@@ -19,6 +19,426 @@ This database will be updated regularly. Currently sorted by recent. [Sort by po
   </thead>
   <tbody>
     <tr>
+      <td>444</td>
+      <td>Providence, RI</td>
+      <td>police shoot out the eye of a *non-protestor* as he's *driving home*......[https://t.co/KDsPdyYa4L]</td>
+      <td>https://twitter.com/greg_doucette/status/1270574117234884609</td>
+      <td>https://t.co/FXk6IgC6xz</td>
+    </tr>
+    <tr>
+      <td>443</td>
+      <td>Camden, DE</td>
+      <td>police arrest a reporter for asking why peaceful protestors were being arrested......[https://t.co/LA9clBVm5p]</td>
+      <td>https://twitter.com/greg_doucette/status/1270570283401916417</td>
+      <td>https://t.co/5BVIe1dYGO</td>
+    </tr>
+    <tr>
+      <td>442</td>
+      <td>Tampa, FL</td>
+      <td>police shoot a protestor in the back of the head, then open fire on the nurse applying first aid ......[@Satellit3Heart]</td>
+      <td>https://twitter.com/greg_doucette/status/1270491699832401920</td>
+      <td>https://t.co/3yaSgBo7uE</td>
+    </tr>
+    <tr>
+      <td>441</td>
+      <td>Oakland, CA</td>
+      <td>a student-led protest turns into a war zone (6/1)......[@LilCocoBabe]</td>
+      <td>https://twitter.com/greg_doucette/status/1270490060287344642</td>
+      <td>https://t.co/H2TgX2N1ei</td>
+    </tr>
+    <tr>
+      <td>440</td>
+      <td>Atlanta, GA</td>
+      <td>National Guard shoving protestors over a retaining wall for sport......(Can't read the cross street, looks like Paces Ferry Road NW and Glen Arden Drive NW?)......[Anonymous]</td>
+      <td>https://twitter.com/greg_doucette/status/1270487994571673600</td>
+      <td>https://t.co/P92VeAi2KU</td>
+    </tr>
+    <tr>
+      <td>439</td>
+      <td>Asbury Park, NJ</td>
+      <td>a cop manhandles a woman half his size, then his cop buddies arrest a reporter for live-streaming it ......[https://t.co/PYAerZgYOr]</td>
+      <td>https://twitter.com/greg_doucette/status/1270480487249776641</td>
+      <td>https://t.co/jtRnbf7T8V</td>
+    </tr>
+    <tr>
+      <td>438</td>
+      <td>Fort Lauderdale, FL</td>
+      <td>police shoot a black woman in the face for sport......[CW: blood]......[@MrEvanRoss]</td>
+      <td>https://twitter.com/greg_doucette/status/1270478281637351424</td>
+      <td>https://t.co/xnm3jXfTsn</td>
+    </tr>
+    <tr>
+      <td>437</td>
+      <td>Buffalo, NY</td>
+      <td>police dispatcher slips up and says the quiet part out loud......(He has now been suspended)......https://t.co/77aVHnYST9</td>
+      <td>https://twitter.com/greg_doucette/status/1270396203990159361</td>
+      <td>https://t.co/rasFaS3hiP</td>
+    </tr>
+    <tr>
+      <td>436</td>
+      <td>Beavercreek, OH</td>
+      <td>police fire teargas into a peaceful protest......Afterward, they had the audacity to kneel with the people they'd just gassed for a photo op ......[@b0ywxnder]</td>
+      <td>https://twitter.com/greg_doucette/status/1270383224905248768</td>
+      <td>https://t.co/ozYgNTEu7H</td>
+    </tr>
+    <tr>
+      <td>435</td>
+      <td>Asheville, NC</td>
+      <td>police shoot a guy in the neck/face with a pepperball ......[@ILTTS]</td>
+      <td>https://twitter.com/greg_doucette/status/1270378392454672390</td>
+      <td>https://t.co/LwueaQlLqt</td>
+    </tr>
+    <tr>
+      <td>434</td>
+      <td>Portland, Maine</td>
+      <td>rounding up journalists for arrest because of cop-skeptic tweets</td>
+      <td>https://twitter.com/greg_doucette/status/1270378387123646464</td>
+      <td>https://t.co/463OkE0rVv</td>
+    </tr>
+    <tr>
+      <td>433</td>
+      <td>New York City, NY</td>
+      <td>police deliberately targeted non-protesting legal observers for arrest</td>
+      <td>https://twitter.com/greg_doucette/status/1270358329920012288</td>
+      <td>https://t.co/3iepeUIxyB</td>
+    </tr>
+    <tr>
+      <td>432</td>
+      <td>Houston, TX</td>
+      <td>a cop headbutts a protestor for asking why cops are beating another protestor ......[@DomSkyeRN]</td>
+      <td>https://twitter.com/greg_doucette/status/1270358327592210432</td>
+      <td>https://t.co/0EHnxLtJzp</td>
+    </tr>
+    <tr>
+      <td>431</td>
+      <td>Charlotte, NC</td>
+      <td>police arrest a representative from The Bail Project before they're slated to speak at a protest by Charlotte-Mecklenburg's public defenders......[@kaitlinwa24]</td>
+      <td>https://twitter.com/greg_doucette/status/1270185252665864193</td>
+      <td>https://t.co/yzCPFWswX7</td>
+    </tr>
+    <tr>
+      <td>430</td>
+      <td>Seattle, WA + Portland, OR</td>
+      <td>another mashup of multiple videos showing the chaos and violence by police ......[@Bionic_Sloth]</td>
+      <td>https://twitter.com/greg_doucette/status/1270170367357845504</td>
+      <td>https://t.co/3otLrfvnph</td>
+    </tr>
+    <tr>
+      <td>429</td>
+      <td>Seattle, WA</td>
+      <td>a mashup of multiple cameras, notice the top left where SPD blows away a journalist</td>
+      <td>https://twitter.com/greg_doucette/status/1270170055729385480</td>
+      <td>https://t.co/E1ltEGCZph</td>
+    </tr>
+    <tr>
+      <td>428</td>
+      <td>Multiple</td>
+      <td>*lengthy* thread of police departments lying to the public about what's happened in a variety of instances ......Your Government is lying to you. Regularly.</td>
+      <td>https://twitter.com/greg_doucette/status/1270169412834820096</td>
+      <td>https://t.co/bdu5AOVCGA</td>
+    </tr>
+    <tr>
+      <td>427</td>
+      <td>Pittsburgh, PA</td>
+      <td>different officers give different directions about where a man is allowed to go......When he doesn't move quickly enough, one throws a teargas canister directly at his feet and then shoots him in the chest for sport ......[https://t.co/DZRSVTYAPB]</td>
+      <td>https://twitter.com/greg_doucette/status/1270149233673469957</td>
+      <td>https://t.co/pCkxoWXKGY</td>
+    </tr>
+    <tr>
+      <td>426</td>
+      <td>Columbus, OH</td>
+      <td>police injuring a Special Forces veteran worse than the Taliban ever did......Jesus.........https://t.co/E6UCsSLfs1</td>
+      <td>https://twitter.com/greg_doucette/status/1270145933146275840</td>
+      <td>https://t.co/znodnkeLBf</td>
+    </tr>
+    <tr>
+      <td>425</td>
+      <td>Seattle, WA</td>
+      <td>police shoot someone directly in the chest with a flash-bang grenade......[@chaseburnsy]</td>
+      <td>https://twitter.com/greg_doucette/status/1270139082178428929</td>
+      <td>https://t.co/Xvq477SaUK</td>
+    </tr>
+    <tr>
+      <td>424</td>
+      <td>Seattle, WA</td>
+      <td>how many Seattle cops and National Guardsmen does it take to beat one homeless person?......Looks like at least 6 here......[@slydesilva]</td>
+      <td>https://twitter.com/greg_doucette/status/1270138109498396672</td>
+      <td>https://t.co/gnNnHo9MTS</td>
+    </tr>
+    <tr>
+      <td>423</td>
+      <td>Denver, CO</td>
+      <td>person is walking down the street minding their own business – not even protesting! – and a DPD cop bathes them in pepper-spray for sport</td>
+      <td>https://twitter.com/greg_doucette/status/1270126799972941824</td>
+      <td>https://t.co/bHqHX3uVNW</td>
+    </tr>
+    <tr>
+      <td>422</td>
+      <td>Minneapolis, MN</td>
+      <td>remember 3️⃣8️⃣7️⃣, where MPD cops slashed people's car tires in a K-Mart parking lot?......They now admit they did it in a second area too......Total violation of the 4th / 5th / 14th Amendments</td>
+      <td>https://twitter.com/greg_doucette/status/1270126445709406211</td>
+      <td>https://t.co/As7h36xjZx</td>
+    </tr>
+    <tr>
+      <td>421</td>
+      <td>New York City, NY</td>
+      <td>how many NYPD cops does it take to throw an unarmed bicyclist to the ground and beat the everlasting sh*t out of him?......I count at least 5......[https://t.co/A2u4YGlRRV]</td>
+      <td>https://twitter.com/greg_doucette/status/1270050709208207365</td>
+      <td>https://t.co/Zfbmh1VgTH</td>
+    </tr>
+    <tr>
+      <td>420</td>
+      <td>Seattle, WA</td>
+      <td>a man drives into the crowd of protestors in downtown Seattle, shoots a guy as he gets out of the car, then makes his way through the crowd to the police to turn himself in......3 more vids coming on this.........[@SeanNyberg]</td>
+      <td>https://twitter.com/greg_doucette/status/1270046667656527872</td>
+      <td>https://t.co/TUs2qWSuSA</td>
+    </tr>
+    <tr>
+      <td>419</td>
+      <td>Portland, OR</td>
+      <td>6/5, cops hop off the side of a police van and immediately open fire ......[@bigpieceoftoast]</td>
+      <td>https://twitter.com/greg_doucette/status/1270044122963939328</td>
+      <td>https://t.co/Ia8BPEmcJq</td>
+    </tr>
+    <tr>
+      <td>418</td>
+      <td>Seattle, WA</td>
+      <td>man shot by SPD from 30yds away while the media is broadcasting live</td>
+      <td>https://twitter.com/greg_doucette/status/1270041452232552454</td>
+      <td>https://t.co/Ice2bvQlVs</td>
+    </tr>
+    <tr>
+      <td>417</td>
+      <td>Washington, DC</td>
+      <td>the Trump Steaks version of the Berlin Wall......Embarrassing tbh......[@BruceGFriedrich]</td>
+      <td>https://twitter.com/greg_doucette/status/1270040770800766979</td>
+      <td>https://t.co/gmnQ3E088p</td>
+    </tr>
+    <tr>
+      <td>416</td>
+      <td>Los Angeles, CA</td>
+      <td>unarmed protestors have their hands raised standing still......LAPD shoots them for sport anyway......[@MattMcGorry]</td>
+      <td>https://twitter.com/greg_doucette/status/1270039468838400001</td>
+      <td>https://t.co/lc9ukytGWI</td>
+    </tr>
+    <tr>
+      <td>415</td>
+      <td>Kansas City, MO</td>
+      <td>police shoot out a dog walker's eye for sport......That's how many eyes they've shot out since this started? At least 5 just in this thread?......Most states have a crime of "mayhem": deliberately maiming somebody like this......Lawlessness</td>
+      <td>https://twitter.com/greg_doucette/status/1270031744637509632</td>
+      <td>https://t.co/EDZEkPMpqQ</td>
+    </tr>
+    <tr>
+      <td>414</td>
+      <td>Canton, OH</td>
+      <td>check out that MRAP in the background!......Nothing like seeing Iraq War materiel on the streets of everyday America...</td>
+      <td>https://twitter.com/greg_doucette/status/1270030912185675778</td>
+      <td>https://t.co/jLcqXb6QAs</td>
+    </tr>
+    <tr>
+      <td>413</td>
+      <td>Portland, OR</td>
+      <td>PDX cops are hiding their name badges with numbers, as one tells a journalist press passes "don't matter" and then arrests him for asking the cop's name ......[Periscope @ https://t.co/Et98SHdJME]</td>
+      <td>https://twitter.com/greg_doucette/status/1270030444642344962</td>
+      <td>https://t.co/ZmUTaEYLPd</td>
+    </tr>
+    <tr>
+      <td>412</td>
+      <td>Orlando, FL</td>
+      <td>bike cop pepper-sprays a woman and then another protestor while a trio of his colleagues arrest someone......[@Concerned407]</td>
+      <td>https://twitter.com/greg_doucette/status/1270023246755368960</td>
+      <td>https://t.co/xQEhune8ag</td>
+    </tr>
+    <tr>
+      <td>411</td>
+      <td>Akron, OH</td>
+      <td>police shoot a teargas canister at a peaceful protestor......[Reddit @ https://t.co/yuPClABO7g]</td>
+      <td>https://twitter.com/greg_doucette/status/1270022403981299713</td>
+      <td>https://t.co/GwY3vyyOF7</td>
+    </tr>
+    <tr>
+      <td>410</td>
+      <td>Dallas, TX</td>
+      <td>unarmed protestor shot by DPD for shouting ......[@bubbaprog]</td>
+      <td>https://twitter.com/greg_doucette/status/1270021060059160576</td>
+      <td>https://t.co/roMoWX2MAW</td>
+    </tr>
+    <tr>
+      <td>409</td>
+      <td>New York City, NY</td>
+      <td>SoHo circa 1am, NYPD bashes out the windows of a car, rips out the occupants, and beats the sh*t out of them both ......[Anonymous]</td>
+      <td>https://twitter.com/greg_doucette/status/1270020411443613696</td>
+      <td>https://t.co/ScgT3EqKMi</td>
+    </tr>
+    <tr>
+      <td>408</td>
+      <td>Portland, OR</td>
+      <td>police tackle a guy on a bike as he's trying to leave ......And this video is from one of the cops' own cameras ......[@akamikeb]</td>
+      <td>https://twitter.com/greg_doucette/status/1269995378646155265</td>
+      <td>https://t.co/8nnAWKazb2</td>
+    </tr>
+    <tr>
+      <td>407</td>
+      <td>Seattle, WA</td>
+      <td>nighttime view of 4️⃣0️⃣5️⃣, police get super-aggressive with the tear gas – check this out by the end ......Yikes ......[@chaseburnsy]</td>
+      <td>https://twitter.com/greg_doucette/status/1269984183331536897</td>
+      <td>https://t.co/4A4bcqwZRW</td>
+    </tr>
+    <tr>
+      <td>406</td>
+      <td>New York City, NY</td>
+      <td>police chase after protestors as they're backing away, to beat them for sport......(I don't *think* we have this one yet, but if this ties in with any of the other NYC vids in the thread please reply here)......[@brandon212_]</td>
+      <td>https://twitter.com/greg_doucette/status/1269984181330812929</td>
+      <td>https://t.co/DASrGdH5hz</td>
+    </tr>
+    <tr>
+      <td>405</td>
+      <td>Seattle, WA</td>
+      <td>6/7 protest descends into chaos ......[@menilivne]</td>
+      <td>https://twitter.com/greg_doucette/status/1269984178222911493</td>
+      <td>https://t.co/uOsRTLmV0l</td>
+    </tr>
+    <tr>
+      <td>404</td>
+      <td>Denver, CO</td>
+      <td>more chaos, along with indiscriminate use of flash-bang grenades and pepper spray......[TikTok @ https://t.co/L2ZTNHFJmw]</td>
+      <td>https://twitter.com/greg_doucette/status/1269830986059124736</td>
+      <td>https://t.co/9sTr1BEYST</td>
+    </tr>
+    <tr>
+      <td>403</td>
+      <td>Denver, CO</td>
+      <td>police rip a sign out of the hands of a peaceful protestor, then pepper-spray them in the face for sport ......[TikTok @ https://t.co/A623Fqm7kI]</td>
+      <td>https://twitter.com/greg_doucette/status/1269829657333051392</td>
+      <td>https://t.co/Kbz8Ow9V3I</td>
+    </tr>
+    <tr>
+      <td>402</td>
+      <td>Denver, CO</td>
+      <td>effects of being hit in the face with a "less lethal" round......CW: severe gore......[TikTok @ https://t.co/bOA0xFBnOU]</td>
+      <td>https://twitter.com/greg_doucette/status/1269828100138860550</td>
+      <td>https://t.co/77xEIxUSq4</td>
+    </tr>
+    <tr>
+      <td>401</td>
+      <td>San Jose, CA</td>
+      <td>SJPD shoots a protestor while he's on the ground</td>
+      <td>https://twitter.com/greg_doucette/status/1269826172210331659</td>
+      <td>https://t.co/Df0dzFFwnr</td>
+    </tr>
+    <tr>
+      <td>400</td>
+      <td>San Jose, CA</td>
+      <td>police shooting rounds at close range into unarmed peaceful protestors outside City Hall......[@venomwithinher]</td>
+      <td>https://twitter.com/greg_doucette/status/1269825780915359745</td>
+      <td>https://t.co/8pLB5Oebtj</td>
+    </tr>
+    <tr>
+      <td>399</td>
+      <td>Hoover, AL</td>
+      <td>police force everyone onto a hill, then beat the sh*t out of everyone who can't make it up there fast enough......Several, including the woman in the yellow dress, were pepper-sprayed after being t handcuffed......[@mtvtacallya]</td>
+      <td>https://twitter.com/greg_doucette/status/1269810926863163394</td>
+      <td>https://t.co/edvsEUM5iP</td>
+    </tr>
+    <tr>
+      <td>398</td>
+      <td>New York City, NY</td>
+      <td>NYPD cop repeatedly assaulting two protestors as they're walking away ......[@anrao]</td>
+      <td>https://twitter.com/greg_doucette/status/1269807538490441729</td>
+      <td>https://t.co/Cb3IDvQ9Ly</td>
+    </tr>
+    <tr>
+      <td>397</td>
+      <td>Augusta, ME</td>
+      <td>police pettiness in Augusta......(I did the name redaction; original is in DMs)</td>
+      <td>https://twitter.com/greg_doucette/status/1269806820727689217</td>
+      <td>https://t.co/BG2i6uVrNq</td>
+    </tr>
+    <tr>
+      <td>396</td>
+      <td>Denver, CO</td>
+      <td>police shoot a guy at point-blank range for sport ......[Reddit (@2020police) @ https://t.co/xzn2kTHeeo]</td>
+      <td>https://twitter.com/greg_doucette/status/1269804531635937281</td>
+      <td>https://t.co/PAOO9H2gBU</td>
+    </tr>
+    <tr>
+      <td>395</td>
+      <td>Seattle, WA</td>
+      <td>thread on SPD attacking a medic tent on 6/6-7</td>
+      <td>https://twitter.com/greg_doucette/status/1269801009624371200</td>
+      <td>https://t.co/dcdCYVhMH0</td>
+    </tr>
+    <tr>
+      <td>394</td>
+      <td>New York City, NY</td>
+      <td>NYPD hires an event staging company to lead pro-cop chants for the cameras to make it seem like they have popular support ......(see thread debunking this stunt here: https://t.co/hjefqUwwtd)......[@BillWeirCNN]...... https://t.co/xt9LXjFJ1m</td>
+      <td>https://twitter.com/greg_doucette/status/1269799991163396096</td>
+      <td>https://t.co/onv389sFIL</td>
+    </tr>
+    <tr>
+      <td>393</td>
+      <td>Minneapolis, MN</td>
+      <td>I'll believe this when votes get taken, but a veto-proof majority of the City Council has pledged to dismantle the police department and replace it with something else</td>
+      <td>https://twitter.com/greg_doucette/status/1269796874032222210</td>
+      <td>https://t.co/m6R48s5fXY</td>
+    </tr>
+    <tr>
+      <td>392</td>
+      <td>Oklahoma City, OK</td>
+      <td>police shoot a black man as he has his hands raised in the air – and the media is streaming live ......[@BruceBrownJr]</td>
+      <td>https://twitter.com/greg_doucette/status/1269791465707896834</td>
+      <td>https://t.co/9tLKcXatS7</td>
+    </tr>
+    <tr>
+      <td>391</td>
+      <td>Oklahoma City, OK</td>
+      <td>police teargas peaceful protestors ......[@benfelder_okc]</td>
+      <td>https://twitter.com/greg_doucette/status/1269790891256041472</td>
+      <td>https://t.co/9QvbUTgIXp</td>
+    </tr>
+    <tr>
+      <td>390</td>
+      <td>Oklahoma City, OK</td>
+      <td>police trying to seize signs and using force against peaceful protestors ......This clip is part of the montage at 3️⃣5️⃣8️⃣ too</td>
+      <td>https://twitter.com/greg_doucette/status/1269790337075228679</td>
+      <td>https://t.co/QNl8HAHjZE</td>
+    </tr>
+    <tr>
+      <td>389</td>
+      <td>Oklahoma City, OK</td>
+      <td>how many OKC cops does it take to arrest one man? I count 2, maybe 3?......[@bootycasket]</td>
+      <td>https://twitter.com/greg_doucette/status/1269789762681999361</td>
+      <td>https://t.co/lwEIDmRJyb</td>
+    </tr>
+    <tr>
+      <td>388</td>
+      <td>Oklahoma City, OK</td>
+      <td>police choking out and pepper-spraying a protestor......[@bootycasket]</td>
+      <td>https://twitter.com/greg_doucette/status/1269789475338694658</td>
+      <td>https://t.co/pwwo2rk31N</td>
+    </tr>
+    <tr>
+      <td>387</td>
+      <td>Minneapolis, MN</td>
+      <td>police destroying private property without due process, in violation of the Fourth / Fifth / Fourteenth Amendments</td>
+      <td>https://twitter.com/greg_doucette/status/1269788786180927488</td>
+      <td>https://t.co/GCIUWiEdxD</td>
+    </tr>
+    <tr>
+      <td>386</td>
+      <td>New York City, NY</td>
+      <td>police beat the sh*t out of people for having a stoop BBQ on their own property ......News reports indicate it was a birthday party ......[@truck_nuts_shoe]</td>
+      <td>https://twitter.com/greg_doucette/status/1269787866797936640</td>
+      <td>https://t.co/uHXUCTCO4e</td>
+    </tr>
+    <tr>
+      <td>385</td>
+      <td>Lakewood, NJ</td>
+      <td>police dressing (poorly) as "undercover Jews" to monitor protestors ......[@themishpacha]</td>
+      <td>https://twitter.com/greg_doucette/status/1269787109268828166</td>
+      <td>https://t.co/emVRJCymQQ</td>
+    </tr>
+    <tr>
       <td>384</td>
       <td>Seattle, WA</td>
       <td>Army National Guard getting in on the habit of refusing to wear name patches to identify themselves......Your Government wants to abuse you – anonymously ......Lawlessness</td>
