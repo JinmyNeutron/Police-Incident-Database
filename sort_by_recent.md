@@ -19,6 +19,370 @@ This database will be updated regularly. Currently sorted by recent. [Sort by po
   </thead>
   <tbody>
     <tr>
+      <td>497</td>
+      <td>Shenandoah County, VA</td>
+      <td>a black pastor has the everlasting sh*t beaten out of him by a gang of whites, pastor calls the police for help............so the Sheriff arrests the pastor</td>
+      <td>https://twitter.com/greg_doucette/status/1272182290823643143</td>
+      <td>https://t.co/iEWTlEyjeW</td>
+    </tr>
+    <tr>
+      <td>496</td>
+      <td>Las Vegas, NV</td>
+      <td>police targeting legal observers – non-protestors – for arrest......As with the deliberate targeting of the media, cops do this so no one potentially "credible" can contradict their narrative later</td>
+      <td>https://twitter.com/greg_doucette/status/1272178949150380034</td>
+      <td>https://t.co/oS2IafB18w</td>
+    </tr>
+    <tr>
+      <td>495</td>
+      <td>San Francisco, CA</td>
+      <td>in good news, San Fran will have unarmed professionals responding to non-criminal calls......(In every single jurisdiction where I've seen data, 80%+ of all calls for service are non-criminal (welfare check, mental health, etc))</td>
+      <td>https://twitter.com/greg_doucette/status/1272173782711635968</td>
+      <td>https://t.co/ABe8Z8BCxm</td>
+    </tr>
+    <tr>
+      <td>494</td>
+      <td>Seattle, WA</td>
+      <td>not brutality-related; turns out crimes can be addressed without lethal force 😱 The protestors occupying the Capitol Hill Autonomous Zone eject a white guy who broke a window of the East Precinct police station ......[@NaveedAJamali]</td>
+      <td>https://twitter.com/greg_doucette/status/1272172633757552641</td>
+      <td>https://t.co/b460UNrOX4</td>
+    </tr>
+    <tr>
+      <td>493</td>
+      <td>Atlanta, GA</td>
+      <td>ATL tries to one-up PDX with their own Running of the Swine......[@douglasblackmon]</td>
+      <td>https://twitter.com/greg_doucette/status/1272172146454925312</td>
+      <td>https://t.co/edN6APlXz2</td>
+    </tr>
+    <tr>
+      <td>492</td>
+      <td>Los Angeles, CA</td>
+      <td>a montage of unchecked police, violence leading up to a 2nd angle on 3️⃣2️⃣4️⃣ above ......[@ShotOn35mm]</td>
+      <td>https://twitter.com/greg_doucette/status/1272160942575562752</td>
+      <td>https://t.co/ai74Rp19zr</td>
+    </tr>
+    <tr>
+      <td>491</td>
+      <td>Portland, OR</td>
+      <td>another night of Portland's Running of the Swine, this time attacking a journalist with the Portland Tribune</td>
+      <td>https://twitter.com/greg_doucette/status/1272159730191011840</td>
+      <td>https://t.co/hPJYaYqffa</td>
+    </tr>
+    <tr>
+      <td>490</td>
+      <td>Atlanta, GA</td>
+      <td>police fire tear gas and flashbang grenades into an unarmed and peaceful crowd ......[@Georgia_NAACP]</td>
+      <td>https://twitter.com/greg_doucette/status/1272036559517290496</td>
+      <td>https://t.co/jcaDf4T0Y9</td>
+    </tr>
+    <tr>
+      <td>489</td>
+      <td>Woodlynne, NJ</td>
+      <td>a police officer is charged for pepper-spraying an innocent black teen for sport......The crime? Telling the cop he was going to call his guardian rather than answer questions......Bonus: cop bounced around *8* different PDs before Woodlynne......https://t.co/0QeoFweO8F</td>
+      <td>https://twitter.com/greg_doucette/status/1272022633979273217</td>
+      <td>https://t.co/6jGcKzEYBH</td>
+    </tr>
+    <tr>
+      <td>488</td>
+      <td>Walnut Creek, CA</td>
+      <td>police fire teargas canisters at unarmed and peaceful protestors ......A guy throws one back......Police charge him with assault with a deadly weapon 🤔......Full story: https://t.co/rdg1teXIDr</td>
+      <td>https://twitter.com/greg_doucette/status/1272018041753219073</td>
+      <td>https://t.co/v8ib2iU1lo</td>
+    </tr>
+    <tr>
+      <td>487</td>
+      <td>Palmdale, CA</td>
+      <td>an officer casually aiming at unarmed and peaceful protestors demonstrating over the "suicide" of Robert Fuller ......[@rebelalliance76]</td>
+      <td>https://twitter.com/greg_doucette/status/1272014796507013122</td>
+      <td>https://t.co/lPQC5r0ZIz</td>
+    </tr>
+    <tr>
+      <td>486</td>
+      <td>Richmond, VA</td>
+      <td>police jumping the curb to do a Tiananmen Square in his SUV......[@BreRVA]</td>
+      <td>https://twitter.com/greg_doucette/status/1272012526260273153</td>
+      <td>https://t.co/UkInQHfdwf</td>
+    </tr>
+    <tr>
+      <td>485</td>
+      <td>Portland, OR</td>
+      <td>Running of the Bulls, PDX Style. Police bull rush protestors while shooting them as they run away......[@MrOlmos]</td>
+      <td>https://twitter.com/greg_doucette/status/1272011877111996417</td>
+      <td>https://t.co/SENETeljnm</td>
+    </tr>
+    <tr>
+      <td>484</td>
+      <td>Philadelphia, PA</td>
+      <td>a white vigilante mob shows up at Marconi Plaza, shaking hands with the cops, assaults a journalist – and then a cop here tells the journalist they have to leave......This is a violation of the First Amendment......[@UR_Ninja]</td>
+      <td>https://twitter.com/greg_doucette/status/1272009432730202112</td>
+      <td>https://t.co/jHyHjSPtf8</td>
+    </tr>
+    <tr>
+      <td>483</td>
+      <td>New Orleans, LA</td>
+      <td>a police sergeant is suspended pending an internal investigation into his social media comments, where he calls protestors "SAVAGES!", says George Floyd "got what he deserved," and calls for @nhannahjones's home to be burned down</td>
+      <td>https://twitter.com/greg_doucette/status/1271844003147919360</td>
+      <td>https://t.co/3RxVRaBlgH</td>
+    </tr>
+    <tr>
+      <td>482</td>
+      <td>Beverly Hills, CA</td>
+      <td>police turn a rich neighborhood into a teargas-soaked war zone......[@J7_TreeOfLibrty]</td>
+      <td>https://twitter.com/greg_doucette/status/1271836142711775235</td>
+      <td>https://t.co/Yn0Z69LGWV</td>
+    </tr>
+    <tr>
+      <td>481</td>
+      <td>Des Moines, IA</td>
+      <td>a cop is caught on a security camera stealing cases of water that a 17-year-old had put out for protestors ......This is unlawful theft of private property without due process, and violates the 4th / 5th / 14th Amendments......[https://t.co/cH5CayI4OI]</td>
+      <td>https://twitter.com/greg_doucette/status/1271827907455877120</td>
+      <td>https://t.co/QkN6phqLDF</td>
+    </tr>
+    <tr>
+      <td>479</td>
+      <td>Philadelphia, PA</td>
+      <td>cops enthusiastically clubbing someone in a car......[@_juliatr]</td>
+      <td>https://twitter.com/greg_doucette/status/1271817729205587969</td>
+      <td>https://t.co/sSdVEvlEH5</td>
+    </tr>
+    <tr>
+      <td>478</td>
+      <td>Philadelphia, PA</td>
+      <td>cops get a man onto the ground and handcuff him, then everyone backs up so one officer can get a running start before kicking him in the side......This was last week......[@_juliatr]</td>
+      <td>https://twitter.com/greg_doucette/status/1271816486366126080</td>
+      <td>https://t.co/UvuyOyLDpD</td>
+    </tr>
+    <tr>
+      <td>477</td>
+      <td>Hallandale Beach, FL</td>
+      <td>the entire SWAT team is so outraged that the police chief kneeled with protestors that they're resigning from the SWAT unit 😂......They remain police, of course, because few other professions let you shoot minorities for sport</td>
+      <td>https://twitter.com/greg_doucette/status/1271675180922933248</td>
+      <td>https://t.co/iBTqsRP9KB</td>
+    </tr>
+    <tr>
+      <td>476</td>
+      <td>Atlanta, GA</td>
+      <td>an elderly lady who uses a walker was arrested by ~10 police, for using *chalk* to write on a Confederate monument ......She's still in jail, on $1,500.00 bond</td>
+      <td>https://twitter.com/greg_doucette/status/1271673830851915779</td>
+      <td>https://t.co/A5JLvB3FC2</td>
+    </tr>
+    <tr>
+      <td>475</td>
+      <td>East Meadow, NY</td>
+      <td>a police officer abruptly stops walking so a protestor walking behind him will bump into him, so the other police can attack and arrest him......At least 3 officers pin him down, with one keeping a knee on his neck......[@MarisaKabas]</td>
+      <td>https://twitter.com/greg_doucette/status/1271638988206604289</td>
+      <td>https://t.co/zIPkJsmzM9</td>
+    </tr>
+    <tr>
+      <td>474</td>
+      <td>Salt Lake City, UT</td>
+      <td>when police decide it's time to start making curfew arrests, they pluck a black guy from the crowd as several pin him to the ground and at least one keeps his knee on the guy's neck......[@Leashie3]</td>
+      <td>https://twitter.com/greg_doucette/status/1271637576642945025</td>
+      <td>https://t.co/5KRmjrlvm2</td>
+    </tr>
+    <tr>
+      <td>473</td>
+      <td>Tampa, FL</td>
+      <td>how many Tampa cops does it take to beat down one protestor? I count 3 🤔......[@Sensationshawty]</td>
+      <td>https://twitter.com/greg_doucette/status/1271634693465792513</td>
+      <td>https://t.co/Cvr0dOfcz3</td>
+    </tr>
+    <tr>
+      <td>472</td>
+      <td>Milwaukee, WI</td>
+      <td>a bike cop pins a protestor by putting his knee on the guy's neck, and repeatedly kneeing him in the side with the other one, as another bike cop helps hold him down for the beating ......[YT: https://t.co/zmuv7I0mle]</td>
+      <td>https://twitter.com/greg_doucette/status/1271632038727241728</td>
+      <td>https://t.co/A33vUPcgr0</td>
+    </tr>
+    <tr>
+      <td>471</td>
+      <td>Columbus, OH</td>
+      <td>police detain a literal circus bus of hippies because they were convinced it was actually full of Antifa Super-Soldiers</td>
+      <td>https://twitter.com/greg_doucette/status/1271624421862707201</td>
+      <td>https://t.co/7IIxud6V19</td>
+    </tr>
+    <tr>
+      <td>470</td>
+      <td>Miami, FL</td>
+      <td>police incite a full-on street brawl ......[@grantstern]</td>
+      <td>https://twitter.com/greg_doucette/status/1271620502977761286</td>
+      <td>https://t.co/AVtcKGeAUR</td>
+    </tr>
+    <tr>
+      <td>469</td>
+      <td>Seattle, WA</td>
+      <td>yet another federal judge has now forbidden police from using chemical weapons on the people they're supposed to serve and protect......Seattle now joins Dallas TX, Denver CO, and Portland OR</td>
+      <td>https://twitter.com/greg_doucette/status/1271605255600517121</td>
+      <td>https://t.co/FAj6iUz0C6</td>
+    </tr>
+    <tr>
+      <td>468</td>
+      <td>New York City, NY</td>
+      <td>NYPD leadership instructed cops not to show up to court so they could delay hearings (while still getting full salaries funded by taxpayers)......This sort of thing should be an automatic dismissal of all charges</td>
+      <td>https://twitter.com/greg_doucette/status/1271589646338854914</td>
+      <td>https://t.co/gu8bxKK1uK</td>
+    </tr>
+    <tr>
+      <td>467</td>
+      <td>Multiple Locations</td>
+      <td>the Government has spy planes flying over the protests to monitor everything ......This is *ludicrously* expensive</td>
+      <td>https://twitter.com/greg_doucette/status/1271425818741354496</td>
+      <td>https://t.co/DkfVhbizmg</td>
+    </tr>
+    <tr>
+      <td>466</td>
+      <td>Dallas, TX</td>
+      <td>a third judge has now entered an order barring police from using certain techniques of attacking the populace ......(Denver and Portland have similar prohibitions)</td>
+      <td>https://twitter.com/greg_doucette/status/1271425817265025026</td>
+      <td>https://t.co/TO3tR4bqrv</td>
+    </tr>
+    <tr>
+      <td>465</td>
+      <td>Seattle, WA</td>
+      <td>Seattle PD shows up to the #CHAZ, pepper-sprays a protestor with their hands up, then leaves......[FB: https://t.co/C1HREgjLSH]</td>
+      <td>https://twitter.com/greg_doucette/status/1271287088755834880</td>
+      <td>https://t.co/tYtTcU2PC9</td>
+    </tr>
+    <tr>
+      <td>464</td>
+      <td>Madison, WI</td>
+      <td>police block the exits of a local park. Activists then raise their hands and stand still, and police appear to fall back......Protestors cheer at the apparent retreat – then the police start throwing teargas ......[TT: https://t.co/4lOC6HwsKj]</td>
+      <td>https://twitter.com/greg_doucette/status/1271279276810211329</td>
+      <td>https://t.co/59J2kpqBLt</td>
+    </tr>
+    <tr>
+      <td>463</td>
+      <td>New York City, NY</td>
+      <td>NYPD beat a man for sport then steal his bike......[@mingum]</td>
+      <td>https://twitter.com/greg_doucette/status/1271276341325975552</td>
+      <td>https://t.co/guKIw1aGQ3</td>
+    </tr>
+    <tr>
+      <td>462</td>
+      <td>New Orleans, LA</td>
+      <td>some good news, as a woman arrested by police (reason officially unknown but likely for protesting) is released as hundreds of volunteers surround the patrol car and refuse to budge......[@chris_granger]</td>
+      <td>https://twitter.com/greg_doucette/status/1271270273669570560</td>
+      <td>https://t.co/JC2RrCJdaV</td>
+    </tr>
+    <tr>
+      <td>461</td>
+      <td>Los Angeles, CA</td>
+      <td>same moment as 4️⃣6️⃣0️⃣ above, but numbered separately because they also sliced the everlasting sh*t out of *another* woman's hand while trying to cut zip ties......(Pics in next tweet)......[IG: https://t.co/FstOAsBFib]</td>
+      <td>https://twitter.com/greg_doucette/status/1271265447825072129</td>
+      <td>https://t.co/UYl6JhK4yR</td>
+    </tr>
+    <tr>
+      <td>460</td>
+      <td>Los Angeles, CA</td>
+      <td>police slice open a woman's hand while trying to cut the zip tie they've used to restrain her......[IG: https://t.co/lkPSGxgnGB]</td>
+      <td>https://twitter.com/greg_doucette/status/1271265335778447361</td>
+      <td>https://t.co/YIoW5mcjfq</td>
+    </tr>
+    <tr>
+      <td>459</td>
+      <td>Chicago, IL</td>
+      <td>while looters were busy ravaging local businesses, Chicago police officers *broke into a Congressman's office* so they could nap, eat, and have a good time......Remember this when people tell you it's the cops who provide peace......Story: https://t.co/U0th5oWMpR</td>
+      <td>https://twitter.com/greg_doucette/status/1271252106050224129</td>
+      <td>https://t.co/SD3End2sqq</td>
+    </tr>
+    <tr>
+      <td>458</td>
+      <td>Washington State</td>
+      <td>a police "fusion center" – a central distribution hub for police intelligence (apparently an oxymoron) – distributed conspiracy-filled gibberish unmoored by anything even vaguely resembling reality......Story: https://t.co/C2t4VGWSkX</td>
+      <td>https://twitter.com/greg_doucette/status/1271249760264036352</td>
+      <td>https://t.co/b8ETOvc1F1</td>
+    </tr>
+    <tr>
+      <td>457</td>
+      <td>Louisville, KY</td>
+      <td>more good news, as the City Council votes to ban police conduct no-knock raids – the sort of thing that led to police summarily executing Breonna Taylor while she slept, as they tried to arrest someone already in custody</td>
+      <td>https://twitter.com/greg_doucette/status/1271245904805343233</td>
+      <td>https://t.co/AC5pD7sUx2</td>
+    </tr>
+    <tr>
+      <td>456</td>
+      <td>Seattle, WA</td>
+      <td>some good news, SPD is going to require bodycam use by their riot cops ......Guess they got tired of dozens of activists documenting police lawlessness and they want a copy for themselves now?</td>
+      <td>https://twitter.com/greg_doucette/status/1271114320018112513</td>
+      <td>https://t.co/FFg9KGTyox</td>
+    </tr>
+    <tr>
+      <td>455</td>
+      <td>Washington, DC</td>
+      <td>whole lot of "YIKES" in this article, including the disclosure that the National Guard keeps special stockpiles of bullets just for shooting Americans?</td>
+      <td>https://twitter.com/greg_doucette/status/1271111467220316162</td>
+      <td>https://t.co/UHP92r6fPu</td>
+    </tr>
+    <tr>
+      <td>454</td>
+      <td>Smithtown, NY</td>
+      <td>off-duty police harass protestors......👮🏼‍♂️: "Go get some breast milk from your mommy, you n*gger-lover"......[@maricath12]</td>
+      <td>https://twitter.com/greg_doucette/status/1271105341539917825</td>
+      <td>https://t.co/PlhrSC39X3</td>
+    </tr>
+    <tr>
+      <td>453</td>
+      <td>Washington, DC</td>
+      <td>the Ohio National Guard sent a known neo-Nazi – on camera at the "Unite the Whites" rally in Charlottesville, in addition to quite a bit of social media – to respond to a Black Lives Matter protest</td>
+      <td>https://twitter.com/greg_doucette/status/1271090108284928000</td>
+      <td>https://t.co/SU0ZV20ptO</td>
+    </tr>
+    <tr>
+      <td>452</td>
+      <td>Portland, OR</td>
+      <td>yet another judge has entered an order banning police from using certain methods of crowd control ......(A judge in Denver entered a similar order at 3️⃣3️⃣2️⃣)</td>
+      <td>https://twitter.com/greg_doucette/status/1271061947094568961</td>
+      <td>https://t.co/G7WJPTOnuP</td>
+    </tr>
+    <tr>
+      <td>451</td>
+      <td>New York City, NY</td>
+      <td>4-5 cops cross the barrier to grab a woman from the crowd and wrestle her to the ground......Officers claim she spat on them. Unclear how given, you know, physics......[@SnarlsDeGaulle]</td>
+      <td>https://twitter.com/greg_doucette/status/1270878358063198208</td>
+      <td>https://t.co/D2ZOWlQUxO</td>
+    </tr>
+    <tr>
+      <td>450</td>
+      <td>Detroit, MI</td>
+      <td>police shoot a peaceful 24yo protestor in the back of the head for sport......She was hospitalized with an open skull fracture, brain bleed, and concussion......1.5 year recovery estimate......Detroit PD has opened an investigation ......[CW: gore]......[https://t.co/H9OYgTCymP]</td>
+      <td>https://twitter.com/greg_doucette/status/1270870836245868545</td>
+      <td>https://t.co/VUq488qKLH</td>
+    </tr>
+    <tr>
+      <td>449</td>
+      <td>Tulsa, OK</td>
+      <td>cop says on radio show that police shoot blacks 24% less "than we ought to be"......Now claims he was merely parroting someone else and is going to file a defamation LOLsuit......(which he'll then lose)</td>
+      <td>https://twitter.com/greg_doucette/status/1270830649868455936</td>
+      <td>https://t.co/r5zHYXxX31</td>
+    </tr>
+    <tr>
+      <td>448</td>
+      <td>Denver, CO</td>
+      <td>protestors move out of the street so an ambulance can get passed......With them bunched into a confined space on the sidewalk, police use it as an opportune time to open fire on them without warning......The cameraman takes a bullet to the arm......[CW: blood]......[Anonymous]</td>
+      <td>https://twitter.com/greg_doucette/status/1270763788493561856</td>
+      <td>https://t.co/MyR0ssvytS</td>
+    </tr>
+    <tr>
+      <td>447</td>
+      <td>Denver, CO</td>
+      <td>police shoot out the eye of a non-protestor just walking to his car – and they do it drive-by style from the back of a truck......This is at least the 7th person blinded by police *just in this one Twitter thread*</td>
+      <td>https://twitter.com/greg_doucette/status/1270711833415094272</td>
+      <td>https://t.co/ZC4b0N2qbS</td>
+    </tr>
+    <tr>
+      <td>446</td>
+      <td>Cincinnati, OH</td>
+      <td>police arrest a black business owner for painting on the windows of his own business......(Cincinnati's curfew included an exemption for work-related activity)......[@gwstoulouse]</td>
+      <td>https://twitter.com/greg_doucette/status/1270709955310559232</td>
+      <td>https://t.co/OBtrLEfflg</td>
+    </tr>
+    <tr>
+      <td>445</td>
+      <td>Cleveland, OH</td>
+      <td>police arrest a Bail Project employee for violating curfew as he's heading to the jail to bail people out ......(Cleveland's curfew declaration includes an exemption for work-related travel)</td>
+      <td>https://twitter.com/greg_doucette/status/1270681500128882691</td>
+      <td>https://t.co/dIkhYV5Z71</td>
+    </tr>
+    <tr>
       <td>444</td>
       <td>Providence, RI</td>
       <td>police shoot out the eye of a *non-protestor* as he's *driving home*......[https://t.co/KDsPdyYa4L]</td>
@@ -3083,13 +3447,6 @@ This database will be updated regularly. Currently sorted by recent. [Sort by po
       <td>beating a variety of unarmed protestors for sport</td>
       <td>https://twitter.com/greg_doucette/status/1266753948951744514</td>
       <td>https://t.co/c7Sdf0QnEy</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>New York City, NY</td>
-      <td>beating a variety of unarmed protestors for sport</td>
-      <td>https://twitter.com/greg_doucette/status/1266753721855291395</td>
-      <td>https://t.co/nGARHwEhwg</td>
     </tr>
     <tr>
       <td>3</td>
