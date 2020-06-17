@@ -19,6 +19,258 @@ This database will be updated regularly. Currently sorted by recent. [Sort by po
   </thead>
   <tbody>
     <tr>
+      <td>533</td>
+      <td>Oakland, CA</td>
+      <td>the Police Chief declares that his officers won't do the jobs they're paid by taxpayers to perform if elected officials ban them from using chemical weapons on citizens</td>
+      <td>https://twitter.com/greg_doucette/status/1273275496508391432</td>
+      <td>https://t.co/n7YRLAX42P</td>
+    </tr>
+    <tr>
+      <td>532</td>
+      <td>Louisville, KY</td>
+      <td>police push down a protestor who was lawfully on the sidewalk, then shoot at people who come to help her up......15 June 2020......The cops are rioting</td>
+      <td>https://twitter.com/greg_doucette/status/1273126080157753348</td>
+      <td>https://t.co/iDhY1qglHh</td>
+    </tr>
+    <tr>
+      <td>531</td>
+      <td>Jefferson Parish, LA</td>
+      <td>this one is just funny</td>
+      <td>https://twitter.com/greg_doucette/status/1273123141582233605</td>
+      <td>https://t.co/IlrCJIqcHS</td>
+    </tr>
+    <tr>
+      <td>530</td>
+      <td>Everett, WA</td>
+      <td>cops yank a guy out of a van, then two hold him down while a third repeatedly punches the sh*t out of him for sport......Bonus: cop doing the punching had previously been fired, reinstated......Story: https://t.co/WH1JWNhYFY......[@patrickcook28]</td>
+      <td>https://twitter.com/greg_doucette/status/1273106235911520258</td>
+      <td>https://t.co/rF2EQFo15d</td>
+    </tr>
+    <tr>
+      <td>529</td>
+      <td>Austin, TX</td>
+      <td>there's a lot here......➡️ One cop kneels on a protestor's neck (day after claiming it was banned)......➡️ Cops re-position to block video......➡️ Another cop horsecollars a different protestor......12 June 2020......The cops are rioting......Story: https://t.co/tlPsq17NHi......Video:</td>
+      <td>https://twitter.com/greg_doucette/status/1273103041156321283</td>
+      <td>https://t.co/aoW557ML92</td>
+    </tr>
+    <tr>
+      <td>528</td>
+      <td>Louisville, KY</td>
+      <td>a guy records a half-dozen cops dogpiling a protestor – and then one of the cops shoots the window to stop him from recording......Lawlessness......[@kenjiboijoi]</td>
+      <td>https://twitter.com/greg_doucette/status/1273057627111600132</td>
+      <td>https://t.co/Z32ZRZ9bMs</td>
+    </tr>
+    <tr>
+      <td>527</td>
+      <td>Richmond, VA</td>
+      <td>numbering this separately from the general police-initiated chaos in 5️⃣2️⃣0️⃣......See if you can figure out why......[@myVPM]</td>
+      <td>https://twitter.com/greg_doucette/status/1272929135283916802</td>
+      <td>https://t.co/ebMZeROl1G</td>
+    </tr>
+    <tr>
+      <td>526</td>
+      <td>Jonesboro, GA</td>
+      <td>an officer holds 5 black teens at gunpoint......Story: https://t.co/cs6uRBR5Qw......[@EaglesFanOnly]</td>
+      <td>https://twitter.com/greg_doucette/status/1272924502314360836</td>
+      <td>https://t.co/KYmnPy3n50</td>
+    </tr>
+    <tr>
+      <td>525</td>
+      <td>Portland, OR</td>
+      <td>cop threatening a journalist with arrest and positioning himself to prevent any video of another cop mistreating an arrestee ......[@AlexMilanTracy]</td>
+      <td>https://twitter.com/greg_doucette/status/1272920075876675590</td>
+      <td>https://t.co/uILvunakQp</td>
+    </tr>
+    <tr>
+      <td>524</td>
+      <td>Portland, OR</td>
+      <td>another night of the PDX Running of the Swine, as ~30 cops chase after 2 unarmed teenagers ......Looks like at least 28 positions that can be defunded.........[@tuckwoodstock]</td>
+      <td>https://twitter.com/greg_doucette/status/1272916710148968448</td>
+      <td>https://t.co/wXUcfS0WUa</td>
+    </tr>
+    <tr>
+      <td>523</td>
+      <td>New York City, NY</td>
+      <td>a three-part sequence here......NYPD unions claimed three police officers were "intentionally poisoned" by Shake Shack employees.........1/</td>
+      <td>https://twitter.com/greg_doucette/status/1272881576167321602</td>
+      <td>https://t.co/222LoLpU9n</td>
+    </tr>
+    <tr>
+      <td>522</td>
+      <td>Portland, OR</td>
+      <td>police threaten to arrest an @OPB reporter if he doesn't run......🕵🏼‍♂️: "We're moving"......👮🏼: "You've been given warnings, so if you don't move faster you're gonna go to jail"......🕵🏼‍♂️: "So you want us to run?"......👮🏼: "Yes I do"......[@MrOlmos]</td>
+      <td>https://twitter.com/greg_doucette/status/1272870745589284864</td>
+      <td>https://t.co/UNnQU05OJh</td>
+    </tr>
+    <tr>
+      <td>521</td>
+      <td>Portland, OR</td>
+      <td>don't have video yet, but PDX cops shot another protestor in the head for sport</td>
+      <td>https://twitter.com/greg_doucette/status/1272866709343518721</td>
+      <td>https://t.co/7FCwIdZDTA</td>
+    </tr>
+    <tr>
+      <td>520</td>
+      <td>Richmond, VA</td>
+      <td>another night of police firing indiscriminately on peaceful protestors outside the RPD headquarters ......[@aeringle]</td>
+      <td>https://twitter.com/greg_doucette/status/1272865880846852096</td>
+      <td>https://t.co/rTMdqxnlJO</td>
+    </tr>
+    <tr>
+      <td>519</td>
+      <td>Fort Wayne, IN</td>
+      <td>police demand a girl leave a local business, tell her "Git! Run! Away! Go!," then shoot at her as she's leaving ......Reminder: there is no curfew in Fort Wayne......[@spinecompact]</td>
+      <td>https://twitter.com/greg_doucette/status/1272746478956695553</td>
+      <td>https://t.co/PZ10TPUe04</td>
+    </tr>
+    <tr>
+      <td>518</td>
+      <td>Albuquerque, NM</td>
+      <td>police launch teargas, flash bangs, rubber bullets after a member of the New Mexico Civil Guard – a white nationalist militia group – shoots a protestor ......[@meganrabundis]</td>
+      <td>https://twitter.com/greg_doucette/status/1272738460261023745</td>
+      <td>https://t.co/3FUNwPoSHy</td>
+    </tr>
+    <tr>
+      <td>517</td>
+      <td>Philadelphia, PA</td>
+      <td>police stand around doing nothing as a white mob pushes an Asian guy into oncoming traffic......Remember this next time someone tells you (falsely) that police provide safety and prevent violence ......[@UR_Ninja]</td>
+      <td>https://twitter.com/greg_doucette/status/1272734468382523392</td>
+      <td>https://t.co/PI0bD1F3XU</td>
+    </tr>
+    <tr>
+      <td>516</td>
+      <td>Bethel, OH</td>
+      <td>police stand around and do nothing as a protestor is assaulted by a cop fetishist......Remember this when people tell you (falsely) that cops provide safety and prevent violence......14 June 2020......[@whiskeyrodent]</td>
+      <td>https://twitter.com/greg_doucette/status/1272730765625831424</td>
+      <td>https://t.co/dMcuZGocex</td>
+    </tr>
+    <tr>
+      <td>515</td>
+      <td>Pittsburgh, PA</td>
+      <td>multiple officers arrest and pin a woman to the ground, while another grabs a teargas canister to throw at people recording the arrest ......The cops are rioting......[@RyanDeto]</td>
+      <td>https://twitter.com/greg_doucette/status/1272725946915749888</td>
+      <td>https://t.co/OSIq9b5XQ1</td>
+    </tr>
+    <tr>
+      <td>514</td>
+      <td>Fort Wayne, IN</td>
+      <td>police teargas a 3-year-old and her mom who weren't even protestors ......Then, after volunteers clean off the 3yo, a cop deliberately throws *another* live teargas canister at her feet to douse her again......The cops are rioting......[https://t.co/bhhBfSIwIF]</td>
+      <td>https://twitter.com/greg_doucette/status/1272725083983929345</td>
+      <td>https://t.co/L7ZQ7CdD0N</td>
+    </tr>
+    <tr>
+      <td>513</td>
+      <td>Fort Wayne, IN</td>
+      <td>another example of police dousing peaceful protestors in pepper spray  ......[@ErinFogg5]</td>
+      <td>https://twitter.com/greg_doucette/status/1272722067696345088</td>
+      <td>https://t.co/nwqQhyxmI0</td>
+    </tr>
+    <tr>
+      <td>512</td>
+      <td>Fort Wayne, IN</td>
+      <td>police ordering peaceful protestors to disperse from public walkways ......There is no curfew in Fort Wayne......This violates the First Amendment......14 June 2020......[@stoneyydope_24]</td>
+      <td>https://twitter.com/greg_doucette/status/1272721333927972864</td>
+      <td>https://t.co/6b1GPPsZUP</td>
+    </tr>
+    <tr>
+      <td>511</td>
+      <td>Fort Wayne, IN</td>
+      <td>a montage of police violence initiated by Fort Wayne cops......[@notbalin]</td>
+      <td>https://twitter.com/greg_doucette/status/1272720278989266944</td>
+      <td>https://t.co/GcGTiu3JAp</td>
+    </tr>
+    <tr>
+      <td>510</td>
+      <td>Fort Wayne, IN</td>
+      <td>police pepper spray unarmed protestors as they peacefully kneel......[FB: https://t.co/1MenUedTZ4]</td>
+      <td>https://twitter.com/greg_doucette/status/1272719937967185920</td>
+      <td>https://t.co/X4UjZa4iDX</td>
+    </tr>
+    <tr>
+      <td>509</td>
+      <td>Portland, OR</td>
+      <td>the police casually declare themselves to be above the First Amendment......But do give a very close listen starting at the [1:53] mark 😉</td>
+      <td>https://twitter.com/greg_doucette/status/1272716714535518219</td>
+      <td>https://t.co/SyH2uZMJBN</td>
+    </tr>
+    <tr>
+      <td>508</td>
+      <td>Portland, OR</td>
+      <td>a number of journalists write a letter-petition to the Mayor, including a number of linked videos out of Portland that we don't have in the list</td>
+      <td>https://twitter.com/greg_doucette/status/1272714934678360064</td>
+      <td>https://t.co/hCRdIzVc0E</td>
+    </tr>
+    <tr>
+      <td>507</td>
+      <td>New York City, NY</td>
+      <td>cops rush a small group of peaceful protestors on Franklin Avenue and promptly beat the ones they catch ......11 June 2020......[@luketracy]</td>
+      <td>https://twitter.com/greg_doucette/status/1272700895688605697</td>
+      <td>https://t.co/hW8bec4HSx</td>
+    </tr>
+    <tr>
+      <td>506</td>
+      <td>Minneapolis, MN</td>
+      <td>911 dispatch knew George Floyd was being murdered as it happened......"you can call me a snitch if you want to but we have the cameras up for [squad] 320's call, and ... all of them sat on this man"......Jeeeesus Christ...</td>
+      <td>https://twitter.com/greg_doucette/status/1272632832297402368</td>
+      <td>https://t.co/VYjtr9qtWr</td>
+    </tr>
+    <tr>
+      <td>505</td>
+      <td>Austin, TX</td>
+      <td>police shoot an unarmed protestor in the face......[CW: gore] ......The rubber bullet gets lodged into the side of her face and is bleeding everywhere ......[@randomjhovall]</td>
+      <td>https://twitter.com/greg_doucette/status/1272386250058727425</td>
+      <td>https://t.co/2BarEFkdWx</td>
+    </tr>
+    <tr>
+      <td>504</td>
+      <td>Richmond, VA</td>
+      <td>police set up a vehicle barricade outside their HQ. Protestors gather outside the perimeter and protest peacefully – so police arrest someone with a bullhorn and start spraying pepper-spray everywhere ......[@GoadGatsby]</td>
+      <td>https://twitter.com/greg_doucette/status/1272369818117853184</td>
+      <td>https://t.co/z26R8Eu3ZM</td>
+    </tr>
+    <tr>
+      <td>503</td>
+      <td>Portland, OR</td>
+      <td>an elderly gentleman falls to the ground. A protector tries to help him up, but is instead shoved away by police ......[@tuckwoodstock]</td>
+      <td>https://twitter.com/greg_doucette/status/1272369813516619776</td>
+      <td>https://t.co/f1x89U5iW3</td>
+    </tr>
+    <tr>
+      <td>502</td>
+      <td>Portland, OR</td>
+      <td>separate from the Running of the Swine, here PDX cops tell a protestor to get on their bike – but then instantly arrest them when they attempt to do so......[@mossyrocc]</td>
+      <td>https://twitter.com/greg_doucette/status/1272301072774823936</td>
+      <td>https://t.co/RpNQI91aVv</td>
+    </tr>
+    <tr>
+      <td>501</td>
+      <td>Minneapolis, MN</td>
+      <td>police toss a teargas canister at a CBS news crew as they're broadcasting live on-air</td>
+      <td>https://twitter.com/greg_doucette/status/1272300365409587202</td>
+      <td>https://t.co/EsaHjwruvv</td>
+    </tr>
+    <tr>
+      <td>500</td>
+      <td>Little Rock, AR</td>
+      <td>police open fire on unarmed peaceful protestors with their hands raised ......[FB: https://t.co/s2xU3v6jDx]</td>
+      <td>https://twitter.com/greg_doucette/status/1272300055849054208</td>
+      <td>https://t.co/LvOxAVtTSP</td>
+    </tr>
+    <tr>
+      <td>499</td>
+      <td>New York City, NY</td>
+      <td>police trying to use barricades to bowl over protestors and stop them from assembling at Times Square ......[@RosalindZAdams]</td>
+      <td>https://twitter.com/greg_doucette/status/1272283368185565184</td>
+      <td>https://t.co/2Byl0bUXFt</td>
+    </tr>
+    <tr>
+      <td>498</td>
+      <td>Chicago, IL</td>
+      <td>cops practically pulling a kids pants off to yank him out of the backseat of a car......Notice badge numbers are blocked by "thin blue line" ribbons......[@leolaroux]</td>
+      <td>https://twitter.com/greg_doucette/status/1272227738053681153</td>
+      <td>https://t.co/i8XGrzy6It</td>
+    </tr>
+    <tr>
       <td>497</td>
       <td>Shenandoah County, VA</td>
       <td>a black pastor has the everlasting sh*t beaten out of him by a gang of whites, pastor calls the police for help............so the Sheriff arrests the pastor</td>
@@ -3344,13 +3596,6 @@ This database will be updated regularly. Currently sorted by recent. [Sort by po
       <td>https://t.co/LYKU9oKXRr</td>
     </tr>
     <tr>
-      <td>20</td>
-      <td>New York City</td>
-      <td>NYPD officer (assuming a sergeant or lieutenant since he's in a white shirt?) shoving an unarmed protestor for sport</td>
-      <td>https://twitter.com/greg_doucette/status/1266850004720812032</td>
-      <td>https://t.co/6xsu4a2aiF</td>
-    </tr>
-    <tr>
       <td>19</td>
       <td>Detroit, MI</td>
       <td>an officer charges through a group of other officers to attack a protestor who is backing away (timestamp 0:13-0:17)</td>
@@ -3447,13 +3692,6 @@ This database will be updated regularly. Currently sorted by recent. [Sort by po
       <td>beating a variety of unarmed protestors for sport</td>
       <td>https://twitter.com/greg_doucette/status/1266753948951744514</td>
       <td>https://t.co/c7Sdf0QnEy</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>New York City, NY</td>
-      <td>doing an intentional hit-and-run with a car door to an unarmed protestor standing in the non-vehicular bike lane</td>
-      <td>https://twitter.com/greg_doucette/status/1266753089517821954</td>
-      <td>https://t.co/QOlTCWqWi4</td>
     </tr>
   </tbody>
 </table>
